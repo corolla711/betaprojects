@@ -1,0 +1,2 @@
+# betaprojects
+Tanulóprojectek gyakorlás céljából.
